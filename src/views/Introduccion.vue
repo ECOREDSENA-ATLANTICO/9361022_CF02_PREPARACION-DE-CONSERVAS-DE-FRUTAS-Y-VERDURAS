@@ -28,7 +28,7 @@
       p.mb-0 Para finalizar, se brindará al aprendiz una guía práctica para elaborar diferentes tipos de conservas, incluyendo mermeladas, frutas en almíbar, encurtidos y vegetales en salmuera. Cada etapa del proceso, desde la selección de la materia prima hasta el envasado y almacenamiento, será cuidadosamente explicada, haciendo hincapié en la importancia de la higiene y manipulación adecuada de los alimentos para garantizar su seguridad y calidad. De esta forma, el aprendiz estará capacitado para elaborar conservas deliciosas y seguras para el consumo.
     
     .video
-      iframe(width="560" height="315" src="https://www.youtube.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/bFreInIXn08?si=zJXLs7n6MnW9HFZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     figcaption Nota: Sena (2024).
 </template>
 
