@@ -47,6 +47,13 @@ export default {
         numero: '1',
         titulo: 'Métodos de conservación de frutas y verduras',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '1.1',
+            titulo: 'Generalidades de la conservación',
+            hash: 't_1_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema2',
@@ -184,14 +191,14 @@ export default {
         'una autoclave es un equipo que se utiliza para esterilizar materiales y equipos mediante la aplicación de calor húmedo a alta presión. Funciona como una olla a presión de gran tamaño, donde se introduce vapor de agua a alta temperatura (generalmente 121°C) y presión (15 psi). Estas condiciones extremas eliminan eficazmente microorganismos, incluyendo esporas bacterianas, garantizando la esterilidad del material. Se utiliza en la industria alimentaria para esterilizar conservas enlatadas, asegurando su seguridad y prolongando su vida útil.',
     },
     {
-      termino: 'Brix (°Bx)',
+      termino: '<em>Brix</em> (°Bx)',
       significado:
-        'el grado Brix (°Bx) es una unidad de medida que se utiliza para determinar la cantidad de sólidos solubles presentes en una solución líquida, principalmente azúcares. Un grado Brix equivale a 1 gramo de sacarosa por cada 100 gramos de solución. Se mide con un instrumento llamado refractómetro, que mide el índice de refracción de la luz al pasar a través de la solución. El Brix es un indicador de la dulzura y la densidad de la solución, y se utiliza ampliamente en la industria alimentaria para controlar la calidad de productos como jugos, refrescos, mermeladas, jarabes y bebidas alcohólicas.',
+        'el grado <em>Brix</em> (°Bx) es una unidad de medida que se utiliza para determinar la cantidad de sólidos solubles presentes en una solución líquida, principalmente azúcares. Un grado <em>Brix</em> equivale a 1 gramo de sacarosa por cada 100 gramos de solución. Se mide con un instrumento llamado refractómetro, que mide el índice de refracción de la luz al pasar a través de la solución. El <em>Brix</em> es un indicador de la dulzura y la densidad de la solución, y se utiliza ampliamente en la industria alimentaria para controlar la calidad de productos como jugos, refrescos, mermeladas, jarabes y bebidas alcohólicas.',
     },
     {
-      termino: 'Clostridium botulinum',
+      termino: '<em>Clostridium botulinum</em>',
       significado:
-        'Clostridium botulinum es una bacteria anaeróbica (que vive en ausencia de oxígeno) que produce una toxina muy potente, la toxina botulínica, que causa botulismo. El botulismo es una enfermedad grave que afecta el sistema nervioso y puede ser fatal. La bacteria puede encontrarse en el suelo, el agua y los alimentos contaminados, especialmente en conservas caseras mal procesadas. El Clostridium botulinum se desarrolla en ambientes con bajo contenido de oxígeno, pH superior a 4.6 y baja concentración de sal. ',
+        '<em>Clostridium botulinum</em> es una bacteria anaeróbica (que vive en ausencia de oxígeno) que produce una toxina muy potente, la toxina botulínica, que causa botulismo. El botulismo es una enfermedad grave que afecta el sistema nervioso y puede ser fatal. La bacteria puede encontrarse en el suelo, el agua y los alimentos contaminados, especialmente en conservas caseras mal procesadas. El <em>Clostridium botulinum</em> se desarrolla en ambientes con bajo contenido de oxígeno, pH superior a 4.6 y baja concentración de sal. ',
     },
     {
       termino: 'Conservación de alimentos',
@@ -301,7 +308,7 @@ export default {
         {
           nombre: 'Ángela Viviana Páez Perilla',
           cargo: 'Experta temática',
-          centro: 'Centro agroindustrial - Regional Quindío.',
+          centro: 'Centro agroindustrial - Regional Quindío',
         },
         {
           nombre: 'Jairo Valencia Ebratt',

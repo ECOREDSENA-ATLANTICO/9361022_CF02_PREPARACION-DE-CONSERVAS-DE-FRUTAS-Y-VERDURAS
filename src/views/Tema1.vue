@@ -16,8 +16,8 @@
       .col-lg-5.col-md-6.align-content-center
         img.my-3(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
 
-    #t_1_2.titulo-segundo.color-acento-contenido
-      h3(data-aos='flip-left') 1.2 Herramientas, equipos y técnicas
+    #t_1_1.titulo-segundo.color-acento-contenido
+      h3(data-aos='flip-left') 1.1 Generalidades de la conservación
     
     img.my-3(src='@/assets/curso/temas/tema1/img2.png', alt='Imagen decorativa')
 
@@ -37,9 +37,6 @@
 
     .row.justify-content-center.my-3
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-3
-            h5 Tabla 2.
-            span <em>Ejemplo de encuesta a usuarios</em>
         .tabla-b
           table.text-center
             thead
@@ -51,17 +48,17 @@
               tr
                 td(style="background: #E8DBD4") Tradicional
                 td(style="background: #F4EDEA") 
-                  img.my-3(src='@/assets/curso/temas/tema1/img21.svg', alt='Imagen decorativa')
+                  img.my-3(src='@/assets/curso/temas/tema1/img21.svg', alt='La appertización es un método de conservación de alimentos que implica el sellado de productos en envases herméticos y su posterior tratamiento térmico para eliminar microorganismos y enzimas que pueden afectar la calidad y seguridad de los alimentos.')
                 td(style="background: #E8DBD4") Todos los recursos
               tr
                 td(style="background: #FFF5E4") Autoesterilización
                 td(style="background: #FFFAF2") 
-                  img.my-3(src='@/assets/curso/temas/tema1/img22.svg', alt='Imagen decorativa')
+                  img.my-3(src='@/assets/curso/temas/tema1/img22.svg', alt='La appertización es un método de conservación de alimentos que implica el sellado de productos en envases herméticos y su posterior tratamiento térmico para eliminar microorganismos y enzimas que pueden afectar la calidad y seguridad de los alimentos.')
                 td(style="background: #FFF5E4") Productos líquidos o pastosos
               tr
                 td(style="background: #E3EADB") Aséptico
                 td(style="background: #EDF1E9") 
-                  img.my-3(src='@/assets/curso/temas/tema1/img23.svg', alt='Imagen decorativa')
+                  img.my-3(src='@/assets/curso/temas/tema1/img23.svg', alt='La appertización es un método de conservación de alimentos que implica el sellado de productos en envases herméticos y su posterior tratamiento térmico para eliminar microorganismos y enzimas que pueden afectar la calidad y seguridad de los alimentos.')
                 td(style="background: #E3EADB") Ídem y con partículas sólidas
 
     .row.justify-content-center.my-3.fnd-3(data-aos='fade-up')
@@ -75,7 +72,7 @@
       .col-lg-3.col-md-6.align-content-center.order.lg-1.order-md-2
         img.my-3(src='@/assets/curso/temas/tema1/img6.png', alt='Imagen decorativa')
       .col-lg-9.order.lg-2.order-md-1
-        p.my-3 En la actualidad, la ciencia y la tecnología han permitido ampliar el abanico de métodos de conservación, incluyendo la refrigeración, la congelación, la deshidratación y la irradiación, entre otros. Estos avances han transformado la industria alimentaria, haciendo posible que los consumidores accedan a una mayor variedad de productos frescos y procesados durante todo el año. Sin embargo, la aplicación inadecuada de estas técnicas puede comprometer la seguridad alimentaria, permitiendo la proliferación de microorganismos peligrosos como el Clostridium botulinum, causante del botulismo (<em>Centers for Disease Control and Prevention</em>. 2022). Por ello, es crucial seguir prácticas de higiene rigurosas y controlar de forma precisa las condiciones de temperatura, tiempo y proceso durante la elaboración de conservas.
+        p.my-3 En la actualidad, la ciencia y la tecnología han permitido ampliar el abanico de métodos de conservación, incluyendo la refrigeración, la congelación, la deshidratación y la irradiación, entre otros. Estos avances han transformado la industria alimentaria, haciendo posible que los consumidores accedan a una mayor variedad de productos frescos y procesados durante todo el año. Sin embargo, la aplicación inadecuada de estas técnicas puede comprometer la seguridad alimentaria, permitiendo la proliferación de microorganismos peligrosos como el <em>Clostridium botulinum</em>, causante del botulismo (<em>Centers for Disease Control and Prevention</em>. 2022). Por ello, es crucial seguir prácticas de higiene rigurosas y controlar de forma precisa las condiciones de temperatura, tiempo y proceso durante la elaboración de conservas.
         .cajon.color-secundario.p-4.my-3(data-aos="fade-up")(style="background: #E3EADB")
           p.mb-0 El objetivo principal de la conservación de alimentos no se limita únicamente a prolongar su vida útil, sino también a preservar al máximo su calidad nutricional y organoléptica. Se busca que los alimentos conserven sus características sensoriales, como sabor, aroma, textura y color, así como sus vitaminas y minerales, brindando al consumidor una experiencia agradable y nutritiva. Para lograr este objetivo, es fundamental considerar diversos factores durante la producción de conservas, desde la selección de materias primas de alta calidad hasta el control de las condiciones de elaboración, los costos de producción, el mercado objetivo y la vida útil del producto final.
     
@@ -100,7 +97,7 @@
           .tarjeta.tarjeta--slyder.p-4.mb-0.jus(style="background: #FAFAFA; align-content: start; border-radius: 0px")
             img.my-3(src='@/assets/curso/temas/tema1/img9.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
             h4.text-center Calidad de los envases
-            p.text-center.mb-0 Estos deben estar en perfectas condiciones antes y después de preparar las conservas, es decir que no deben presentar daños físicos como abolladuras, fisuras o tapas infladas.
+            p.text-center.mb-0 Estos deben estar en perfectas condiciones antes y después de preparar las conservas, es decir, que no deben presentar daños físicos como abolladuras, fisuras o tapas infladas.
       
           
           .tarjeta.tarjeta--slyder.p-4.mb-0.jus(style="background: #FAFAFA; align-content: start; border-radius: 0px")
@@ -142,7 +139,7 @@
               p El calor se ha utilizado desde la antigüedad para eliminar microorganismos y prolongar la vida útil de los alimentos. La cocción de los alimentos no solo los hace más apetecibles y digeribles, sino que también destruye una parte importante de los microorganismos presentes. Técnicas como la cocción en agua hirviendo, al vapor o en hornos de leña, además del desarrollo de preparaciones como mermeladas y jaleas utilizando el calor para concentrar el azúcar y los ácidos de las frutas, son ejemplos del ingenio humano para aprovechar el calor como método de conservación.
 
     .row.justify-content-center
-      p.text-center.text-light(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>Estos son los métodos más usados e importantes dentro de la conservación:</b>
+      p.text-center.text-light(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>Estos son los métodos más usados e importantes dentro de la conservación</b>
     
     .row.justify-content-center.my-3
       .col-xl-8.col-lg-8.justify-content-center.align-content-center
@@ -153,7 +150,7 @@
       
           .row.justify-content-center(titulo="Adición de azúcar")
             .col-xl-12.col-lg-12.col-md-12.align-content-center
-              p Este método consiste en adicionar azúcar con la finalidad de disminuir la actividad del agua presente en el alimento para dificultar su oxidación, es por eso entre más concentración tiene un almíbar más estabilidad le da al producto, esta técnica es usada en frutas para la elaboración de mermeladas, jaleas y frutas en almíbar. Dicho método consiste en poner a hervir la fruta en agua y al poco tiempo se le adiciona el azúcar o sacarosa en relación a la cantidad de producto y la concentración que se desea obtener.
+              p Este método consiste en adicionar azúcar con la finalidad de disminuir la actividad del agua presente en el alimento para dificultar su oxidación, es por eso que entre más concentración tiene un almíbar más estabilidad le da al producto, esta técnica es usada en frutas para la elaboración de mermeladas, jaleas y frutas en almíbar. Dicho método consiste en poner a hervir la fruta en agua y al poco tiempo se le adiciona el azúcar o sacarosa en relación a la cantidad de producto y la concentración que se desea obtener.
       
           .row.justify-content-center(titulo="Adición de alcohol")
             .col-xl-12.col-lg-12.col-md-12.align-content-center
@@ -168,6 +165,8 @@
           img.my-3(src="@/assets/curso/temas/tema1/img14.png", alt="alt")
 
 
+    .row.justify-content-center
+      p.text-center.text-light.my-3(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>Los factores que determinan el tiempo de escaldado son los siguientes</b>
     .row.justify-content-center.align-items-center.mb-3.fnd-4(data-aos="zoom-in")
       .col-lg-12.align-content-center
         .row.justify-content-center
@@ -192,7 +191,7 @@
       .col-lg-4.col-md-6
         img.my-3(src='@/assets/curso/temas/tema1/img19.png', alt='Imagen decorativa')
       .col-lg-8.align-content-center
-        p <b>El escaldado se puede realizar de dos formas:</b>
+        p <b>El escaldado se puede realizar de dos formas</b>
         ol.lista-ol--cuadro.lista-ol--separador
           li 
             .lista-ol--cuadro__vineta(style="background: #73964A; color: black; border-radius: 5px")
@@ -237,7 +236,7 @@
                 td(style="background: #E3EADB; color: #5C783B") <b>En cubos:</b> 2 minutos
               tr
                 th(style="background: #EDF1E9") Papa
-                td(style="background: #EDF1E9; color: #5C783B") <b>En cubos:</b> 1 minutos
+                td(style="background: #EDF1E9; color: #5C783B") <b>En cubos:</b> 1 minuto
               tr
                 th(style="background: #E3EADB") Acelga
                 td(style="background: #E3EADB; color: #5C783B") 3 minutos
@@ -259,7 +258,7 @@
               tr
                 th(style="background: #E3EADB") Pimiento rojo
                 td(style="background: #E3EADB; color: #5C783B") <b>Mitades:</b> 3 minutos / <b>Tiras:</b> 2 minutos<br>Puede asarse y congelar sin blanquear
-          figcaption Nota. Sena (2024)
+        figcaption Nota. Sena (2024)
     .row-my-4
       .col-lg-8.m-auto
         .row.align-items-center.grad1.p-4.justify-content-center

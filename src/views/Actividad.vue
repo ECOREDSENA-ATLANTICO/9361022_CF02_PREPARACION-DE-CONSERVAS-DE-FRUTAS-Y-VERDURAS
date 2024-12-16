@@ -16,7 +16,7 @@ export default {
       tema: 'Nombre del componente formativo',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Este cuestionario te ayudará a poner a prueba tu conocimiento sobre la elaboración de conservas de frutas y verduras,  desafiándote a identificar las técnicas de conservación más adecuadas, comprender los principios de la pasteurización y esterilización,  y reconocer las características de calidad en las materias primas.  Prepárate para responder a preguntas de selección múltiple donde deberás elegir la respuesta correcta de entre varias opciones. ¡Mucha suerte!',
+        '<b> Objetivo:</b> este cuestionario te ayudará a poner a prueba tu conocimiento sobre la elaboración de conservas de frutas y verduras,  desafiándote a identificar las técnicas de conservación más adecuadas, comprender los principios de la pasteurización y esterilización,  y reconocer las características de calidad en las materias primas.  Prepárate para responder a preguntas de selección múltiple donde deberás elegir la respuesta correcta de entre varias opciones. ¡Mucha suerte!',
       barajarPreguntas: true,
       preguntas: [
         {
@@ -42,9 +42,17 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'Salmonella.', esCorrecta: false },
-            { id: 'b', texto: 'Clostridium botulinum.', esCorrecta: true },
-            { id: 'c', texto: 'Escherichia coli.', esCorrecta: false },
-            { id: 'd', texto: 'Listeria monocytogenes.', esCorrecta: false },
+            {
+              id: 'b',
+              texto: '<em>Clostridium botulinum.</em>',
+              esCorrecta: true,
+            },
+            { id: 'c', texto: '<em>Escherichia coli.</em>', esCorrecta: false },
+            {
+              id: 'd',
+              texto: '<em>Listeria monocytogenes.</em>',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
@@ -74,7 +82,7 @@ export default {
         },
         {
           id: 4,
-          texto: '¿Qué mide el grado Brix (°Bx)?',
+          texto: '¿Qué mide el grado <em>Brix</em> (°Bx)?',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -219,7 +227,7 @@ export default {
             { id: 'c', texto: 'Zonas blandas en la piel.', esCorrecta: true },
             {
               id: 'd',
-              texto: 'Color verde intenso con algunas tonalidades amarillas',
+              texto: 'Color verde intenso con algunas tonalidades amarillas.',
               esCorrecta: false,
             },
           ],

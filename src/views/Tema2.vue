@@ -43,7 +43,7 @@
 
           .row(numero="6" titulo="Esterilización adicional en horno (opcional)")
             .col-md-12.mb-4.mb-md-0
-            p Para mayor seguridad, una vez fríos los frascos, se pueden llevar al horno precalentado a 120°C durante 15 minutos. Este paso es especialmente recomendado para conservas de baja acidez, como vegetales, ya que son más propensas al desarrollo de bacterias como el Clostridium botulinum.
+            p Para mayor seguridad, una vez fríos los frascos, se pueden llevar al horno precalentado a 120°C durante 15 minutos. Este paso es especialmente recomendado para conservas de baja acidez, como vegetales, ya que son más propensas al desarrollo de bacterias como el <em>Clostridium botulinum</em>.
 
       .col-lg-4.col-md-8.mt-3.align-content-center
         figure
@@ -53,7 +53,7 @@
       h5 Nota
       p.mb-0 Es importante manipular los frascos y tapas esterilizados con cuidado, evitando tocar las superficies internas. Se recomienda usar pinzas esterilizadas para su manipulación. Mantener los frascos y tapas en un lugar limpio y seco hasta su uso.
 
-    Separador
+
     #t_2_2.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 2.2 Llenado y aplicación de vacío
 
@@ -77,9 +77,9 @@
           .row(numero="4" titulo="Cierre de los frascos")
             .col-md-12.mb-4.mb-md-0
               p Colocar las tapas esterilizadas sobre los frascos, asegurándose de que queden bien centradas. Enroscar las tapas firmemente, pero sin apretar demasiado, para evitar que el aire entre al frasco.
-    Separador
+
     #t_2_3.titulo-segundo.color-acento-contenido
-      h3(data-aos='flip-left') 2.3 Tratamiento térmico: Pasteurización y esterilización
+      h3(data-aos='flip-left') 2.3 Tratamiento térmico: pasteurización y esterilización
 
     p.my-3 El tratamiento térmico es esencial para eliminar los microorganismos presentes en los alimentos y garantizar la seguridad de las conservas. Existen dos métodos principales: la pasteurización y la esterilización. 
 
@@ -101,13 +101,13 @@
           
           .row(numero="2" titulo="Esterilización")
             .col-md-12.mb-4.mb-md-0.align-content-center
-              p La esterilización es un proceso térmico más intenso que la pasteurización y busca eliminar todos los microorganismos presentes en el alimento, incluyendo las esporas bacterianas, altamente resistentes al calor. Se utiliza principalmente para conservas de baja acidez, como vegetales, ya que son más susceptibles al desarrollo del Clostridium botulinum. La esterilización se lleva a cabo generalmente en autoclaves, equipos que permiten aplicar altas temperaturas (entre 116 °C y 120 °C) y presión controlada durante un tiempo específico.
+              p La esterilización es un proceso térmico más intenso que la pasteurización y busca eliminar todos los microorganismos presentes en el alimento, incluyendo las esporas bacterianas, altamente resistentes al calor. Se utiliza principalmente para conservas de baja acidez, como vegetales, ya que son más susceptibles al desarrollo del <em>Clostridium botulinum</em>. La esterilización se lleva a cabo generalmente en autoclaves, equipos que permiten aplicar altas temperaturas (entre 116 °C y 120 °C) y presión controlada durante un tiempo específico.
 
       .col-lg-4.col-md-8.mt-3
           figure
             img(src='@/assets/curso/temas/tema2/img4.png', alt='Imagen decorativa')
             
-    Separador
+
     #t_2_4.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 2.4 Enfriamiento y almacenamiento
 
@@ -139,9 +139,9 @@
       .col-lg-10.col-md-8
         .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 1.
-            span <em>Baño de maría paso a paso</em>
+            span <em>Baño maría paso a paso</em>
         img.my-3(src="@/assets/curso/temas/tema2/img7.png", alt="alt")
-        figcaption Fuente: Bueno, 2017.
+        figcaption Fuente: Bueno, (2017).
 
     p.my-3 Los factores más importantes que influyen en la esterilización son: <b>la acidez o pH del producto</b>, la acidez que interesa cuando se preparan conservas es la acidez potencial de la fruta o verdura, esta se conoce como pH. En la siguiente tabla se muestran los tipos de pH.
 
@@ -284,7 +284,7 @@
       .col-lg-4.col-md-8.align-content-center
         img.my-3(src="@/assets/curso/temas/tema2/img8.png", alt="alt")
       .col-lg-8
-        p.ms-1.my-3 <b>Recomendaciones para utilizar las conservas:</b>
+        p.ms-1.my-3 <b>Recomendaciones para utilizar las conservas</b>
         ul.mt-0
           li
             span Las conservas no se deben cocinar de nuevo y si se calienta debe ser por periodos cortos.
