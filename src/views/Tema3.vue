@@ -15,7 +15,7 @@
         p.mb-0 Para la práctica de la elaboración de conservas de frutas y verduras, se detallarán a continuación los procesos para la preparación de mermeladas, frutas en almíbar, encurtidos y conservas de vegetales. A través de este desarrollo, el aprendiz encontrará las herramientas para aplicar buenas prácticas de higiene y seguridad alimentaria durante todo el proceso de elaboración de las conservas, esenciales para la obtención de productos de alta calidad, aptos para su almacenamiento y consumo seguro.
 
 
-    #t_3_1.titulo-segundo.color-acento-contenido
+    #t_3_1.titulo-segundo.color-acento-contenido.my-3
       h3(data-aos='flip-left') 3.1 Elaboración de conservas de fruta
 
     p.my-3 Las conservas son productos elaborados a base de frutas frescas, estas son muy estables porque su alto contenido de ácido evita que crezcan los microorganismos, además, su proceso de fabricación permite el tratamiento térmico que es otro punto clave en la conservación e inocuidad de las conservas. A continuación, se van a explicar algunos procesos de elaboración de dichos productos.
@@ -284,7 +284,7 @@
 
 
 
-    #t_3_2.titulo-segundo.color-acento-contenido
+    #t_3_2.titulo-segundo.color-acento-contenido.my-3
       h3(data-aos='flip-left') 3.2 Conservas de vegetales
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5

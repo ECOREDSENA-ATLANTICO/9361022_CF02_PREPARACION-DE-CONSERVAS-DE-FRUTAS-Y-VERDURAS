@@ -280,8 +280,7 @@ export default {
     {
       referencia:
         'Secretaria de agricultura, ganadería, desarrollo rural pesca y alimentación. (s.f.). Procesamiento de frutas y verduras a nivel casero. Consultado el 03 de marzo de 2014, en ',
-      link:
-        'http://www.sagarpa.gob.mx/desarrolloRural/Documents/fichasaapt/Procesamiento%20de%20frutas%20y%20verduras%20a%20nivel%20casero.pdf',
+      link: '',
     },
   ],
   creditos: [

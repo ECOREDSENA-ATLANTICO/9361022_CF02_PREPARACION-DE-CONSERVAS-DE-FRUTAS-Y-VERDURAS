@@ -50,7 +50,7 @@ export default {
             { id: 'c', texto: '<em>Escherichia coli.</em>', esCorrecta: false },
             {
               id: 'd',
-              texto: '<em>Listeria monocytogenes.</em>',
+              texto: 'Listeria <em>monocytogenes.</em>',
               esCorrecta: false,
             },
           ],
@@ -87,7 +87,11 @@ export default {
           barajarRespuestas: true,
           opciones: [
             { id: 'a', texto: 'La acidez de una solución.', esCorrecta: false },
-            { id: 'b', texto: 'La acidez de una solución.', esCorrecta: true },
+            {
+              id: 'b',
+              texto: 'La concentración de azúcar en una solución.',
+              esCorrecta: true,
+            },
             {
               id: 'c',
               texto: 'La cantidad de agua en un alimento.',
@@ -189,12 +193,12 @@ export default {
               id: 'a',
               texto:
                 'Enfriar las conservas rápidamente después del tratamiento térmico.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'b',
               texto: 'Reutilizar las tapas de los frascos.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'c',

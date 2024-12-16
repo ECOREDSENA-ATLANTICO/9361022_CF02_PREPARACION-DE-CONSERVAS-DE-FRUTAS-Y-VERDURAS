@@ -59,7 +59,7 @@
 
     p.my-3 Una vez esterilizados los frascos y tapas, se procede al llenado con el alimento previamente preparado y a la aplicación del vacío. Este paso es fundamental para eliminar el oxígeno del interior del frasco, creando un ambiente anaeróbico que inhibe el crecimiento de microorganismos aeróbicos y previene la oxidación del producto. Seguir estos pasos:
 
-    .row.justify-content-center(data-aos="fade-up")
+    .row.justify-content-center.my-3(data-aos="fade-up")
       .col-lg-4.col-md-8.mt-3.align-content-center
         figure
           img(src='@/assets/curso/temas/tema2/img3.png', alt='Imagen decorativa')
@@ -105,7 +105,7 @@
 
       .col-lg-4.col-md-8.mt-3
           figure
-            img(src='@/assets/curso/temas/tema2/img4.png', alt='Imagen decorativa')
+            img.my-3(src='@/assets/curso/temas/tema2/img4.png', alt='Imagen decorativa')
             
 
     #t_2_4.titulo-segundo.color-acento-contenido
