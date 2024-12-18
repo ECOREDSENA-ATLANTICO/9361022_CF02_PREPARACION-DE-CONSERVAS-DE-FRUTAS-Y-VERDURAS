@@ -23,7 +23,7 @@
     h5.blue_icon.my-3(data-aos="fade-left") Frutas en almíbar
 
     p.mt-3 Este producto es elaborado con frutas de muy buena calidad, las cuales son picadas en trozos uniformes y agregadas a un líquido de gobierno o jarabe como cobertura, luego se realiza la pasteurización para inhibir microorganismos. Recuerde que estas se deben almacenar en un lugar fresco.
-    p.mb-3 La preparación de frutas en almíbar requiere de las siguientes operaciones:
+    p.mb-4 La preparación de frutas en almíbar requiere de las siguientes operaciones:
 
     p.text-center.text-light(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>1. Selección de la materia prima</b>
 
@@ -171,7 +171,7 @@
 
     .row.justify-content-center.my-3.fnd-7
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-3
+        .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 2.
             span <em>Proceso de elaboración de fresas en almíbar</em>
         img.my-3(src="@/assets/curso/temas/tema3/img17.svg", alt="alt")
@@ -215,7 +215,7 @@
         figure
           img.my-3(src="@/assets/curso/temas/tema3/img18.png", alt="alt")
 
-    .titulo-sexto.color-acento-contenido.mb-3
+    .titulo-sexto.color-acento-contenido.mb-4
         h5 Figura 3.
         span <em>Proceso de elaboración de la mermelada</em>
     img.my-3(src="@/assets/curso/temas/tema3/img19.svg", alt="alt")
@@ -302,7 +302,7 @@
     p.my-3 Los vegetales en salmuera o al natural conservan su sabor fresco y son ideales para ensaladas, guarniciones o como ingrediente en una variedad de platillos.
 
 
-    .titulo-sexto.color-acento-contenido.mb-3
+    .titulo-sexto.color-acento-contenido.mb-4
         h5 Figura 4.
         span <em>Pasos para la elaboración de vegetales en salmuera</em>
     img.my-3(src="@/assets/curso/temas/tema3/img23.svg", alt="alt")
@@ -377,13 +377,13 @@
 
     .row.justify-content-center.my-3
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-3
+        .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 5.
             span <em>Proceso de elaboración de fríjoles al natural</em>
         img.my-3(src="@/assets/curso/temas/tema3/img31.svg", alt="alt")
         figcaption Fuente: SENA (2024).
     
-    .titulo-sexto.color-acento-contenido.mb-3
+    .titulo-sexto.color-acento-contenido.mb-4
         h5 Figura 6.
         span <em>Pasos para la elaboración de vegetales agridulces</em>
     img.my-3(src="@/assets/curso/temas/tema3/img32.svg", alt="alt")
@@ -395,7 +395,7 @@
 
     .row.justify-content-center.my-3
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-3
+        .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 7.
             span <em>Proceso de elaboración pimientos en conserva</em>
         img.my-3(src="@/assets/curso/temas/tema3/img33.svg", alt="alt")

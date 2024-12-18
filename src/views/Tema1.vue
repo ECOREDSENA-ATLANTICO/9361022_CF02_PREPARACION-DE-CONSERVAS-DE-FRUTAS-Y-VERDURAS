@@ -81,7 +81,7 @@
       p.text-center.text-light(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>Factores que determinan la calidad de las conservas</b>
 
 
-    .row.justify-content-center.align-items-center.mb-3.p-4(data-aos="zoom-in")(style="background: #FFF0D6")
+    .row.justify-content-center.align-items-center.mb-4.p-4(data-aos="zoom-in")(style="background: #FFF0D6")
       .col-xl-8.col-lg-8
         SlyderF.custom(columnas="col-lg-6 col-md-6")
           .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #FAFAFA; align-content: start; border-radius: 0px")
@@ -169,7 +169,7 @@
     .row.justify-content-center
       p.text-center.text-light.my-3(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>Los factores que determinan el tiempo de escaldado son los siguientes</b>
     
-    .row.justify-content-center.align-items-center.mb-3.fnd-4.mx-0(data-aos="zoom-in")
+    .row.justify-content-center.align-items-center.mb-4.fnd-4.mx-0(data-aos="zoom-in")
       .col-lg-12.align-content-center
         .row.justify-content-center
           .col-xl-3.col-lg-3.align-content-center.my-3
@@ -208,7 +208,7 @@
 
     .row.justify-content-center.my-3
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-3
+        .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 1.
             span <em>Tiempos de escaldado</em>
         .tabla-a

@@ -15,7 +15,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 2.1 Esterilización de frascos y tapas
 
-    p.mb-3 Antes de envasar cualquier alimento, es crucial asegurar la esterilidad de los frascos y tapas para evitar la proliferación de microorganismos que podrían comprometer la seguridad y calidad del producto final. La esterilización elimina bacterias, hongos y esporas, garantizando un ambiente adecuado para la conservación. Para esterilizar los frascos y tapas, se recomienda el siguiente proceso:
+    p.mb-4 Antes de envasar cualquier alimento, es crucial asegurar la esterilidad de los frascos y tapas para evitar la proliferación de microorganismos que podrían comprometer la seguridad y calidad del producto final. La esterilización elimina bacterias, hongos y esporas, garantizando un ambiente adecuado para la conservación. Para esterilizar los frascos y tapas, se recomienda el siguiente proceso:
     
     .row.justify-content-center(data-aos="fade-up")
       .col-lg-7
@@ -138,7 +138,7 @@
 
     .row.justify-content-center.my-3
       .col-lg-10.col-md-8
-        .titulo-sexto.color-acento-contenido.mb-3
+        .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 1.
             span <em>Baño maría paso a paso</em>
         img.my-3(src="@/assets/curso/temas/tema2/img7.png", alt="alt")
@@ -148,7 +148,7 @@
 
     .row.justify-content-center.my-3
       .col-lg-10
-        .titulo-sexto.color-acento-contenido.mb-3
+        .titulo-sexto.color-acento-contenido.mb-4
             h5 Tabla 2.
             span <em>Valor del pH de frutas y verduras más comunes</em>
         .tabla-a
