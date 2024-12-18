@@ -172,19 +172,19 @@
     .row.justify-content-center.align-items-center.mb-4.fnd-4.mx-0(data-aos="zoom-in")
       .col-lg-12.align-content-center
         .row.justify-content-center
-          .col-xl-3.col-lg-3.align-content-center.my-3
+          .col-xl-3.col-lg-3.col-md-6.align-content-center.my-3
             .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
               img.my-3(src='@/assets/curso/temas/tema1/img15.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
               h4.text-center Variedad de la fruta
-          .col-xl-3.col-lg-3.align-content-center.my-3
+          .col-xl-3.col-lg-3.col-md-6.align-content-center.my-3
             .tarjeta.tarjeta--slyder.p-4.mb-0.h-100(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
               img.my-3(src='@/assets/curso/temas/tema1/img16.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
               h4.text-center Tamaño
-          .col-xl-3.col-lg-3.align-content-center.my-3
+          .col-xl-3.col-lg-3.col-md-6.align-content-center.my-3
             .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
               img.my-3(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
               h4.text-center Temperatura del escaldado
-          .col-xl-3.col-lg-3.align-content-center.my-3
+          .col-xl-3.col-lg-3.col-md-6.align-content-center.my-3
             .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
               img.my-3(src='@/assets/curso/temas/tema1/img18.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
               h4.text-center Sistemas de calentamiento

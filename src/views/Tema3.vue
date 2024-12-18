@@ -31,17 +31,17 @@
       .col-lg-4.col-md-8.align-content-center
         img.my-3(src='@/assets/curso/temas/tema3/img2.png', alt='Imagen decorativa')
       .col-lg-8.align-content-center
-        ol.ms-2(style="list-style: lower-alpha; color: #703A22")
-          li
-            span.text-dark La fruta a procesar debe tener sus colores característicos, deben ser vivos interna y externamente.
+        ol.ms-2(style="list-style: lower-alpha; color: #703A22; font-weight: 700")
+          li 
+            span.text-dark(style="font-weight: normal") La fruta a procesar debe tener sus colores característicos, deben ser vivos interna y externamente.
           li.hr-punteado.my-3
-            span.text-dark Las frutas deben presentar buenas condiciones físicas, es decir, que no presenten golpes, magulladuras o raspones y no tengan rastros de ataques de insectos ni de hongos como el moho.
+            span.text-dark(style="font-weight: normal") Las frutas deben presentar buenas condiciones físicas, es decir, que no presenten golpes, magulladuras o raspones y no tengan rastros de ataques de insectos ni de hongos como el moho.
           li.hr-punteado.my-3
-            span.text-dark Si el fruto viene sujeto al tallo, debe estar perfectamente pegado a este.
+            span.text-dark(style="font-weight: normal") Si el fruto viene sujeto al tallo, debe estar perfectamente pegado a este.
           li.hr-punteado.my-3 
-            span.text-dark La fruta debe tener la madurez adecuada, no debe estar ni muy madura ni muy verde porque esto influye en la calidad del producto, además, las frutas muy maduras no resisten los procesos térmicos como el escaldo y la pasteurización.
+            span.text-dark(style="font-weight: normal") La fruta debe tener la madurez adecuada, no debe estar ni muy madura ni muy verde porque esto influye en la calidad del producto, además, las frutas muy maduras no resisten los procesos térmicos como el escaldo y la pasteurización.
           li.hr-punteado.my-3 
-            span.text-dark Tenga en cuenta las siguientes características a la hora de escoger frutas frescas.
+            span.text-dark(style="font-weight: normal") Tenga en cuenta las siguientes características a la hora de escoger frutas frescas.
 
     .row.justify-content-center.my-3.fnd-5
       .col-lg-10
@@ -159,7 +159,7 @@
     .row.justify-content-center.my-3
       .col-lg-8.align-content-center
         p.my-3 Esta operación se realiza después del escaldado y cuando el almíbar está listo para el llenado se debe tener en cuenta lo siguiente:
-        ol.ms-2.text-stron(style="list-style: lower-alpha; color: #703A22; font-weight: 600")
+        ol.ms-2.text-stron(style="list-style: lower-alpha; color: #703A22; font-weight: 700")
           li 
             span.text-dark(style="font-weight: normal") Introduzca las frutas en los frascos sólo hasta un 1cm por debajo del cuello del recipiente.
           li.hr-punteado.my-3
