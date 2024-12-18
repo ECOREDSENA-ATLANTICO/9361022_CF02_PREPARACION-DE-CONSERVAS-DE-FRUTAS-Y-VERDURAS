@@ -10,14 +10,15 @@
     img(data="fade-up")(src='@/assets/curso/temas/tema2/img1.png', alt='Imagen decorativa')
 
     p.my-3 Para garantizar la seguridad y prolongar la vida útil de las conservas, se llevan a cabo procesos de esterilización y pasteurización, tanto de los alimentos como de los envases. Estos métodos, basados en la aplicación de calor, eliminan los microorganismos que causan el deterioro de los alimentos, permitiendo su almacenamiento seguro durante largos periodos. A continuación, se describe la secuencia correcta de estos procesos.
-
+    
+    Separador
     #t_2_1.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 2.1 Esterilización de frascos y tapas
 
     p.mb-3 Antes de envasar cualquier alimento, es crucial asegurar la esterilidad de los frascos y tapas para evitar la proliferación de microorganismos que podrían comprometer la seguridad y calidad del producto final. La esterilización elimina bacterias, hongos y esporas, garantizando un ambiente adecuado para la conservación. Para esterilizar los frascos y tapas, se recomienda el siguiente proceso:
     
     .row.justify-content-center(data-aos="fade-up")
-      .col-lg-6
+      .col-lg-7
         LineaTiempoD.color-secundario.mt-3
           .row(numero="1" titulo="Lavado")
             .col-md-12.mb-4.mb-md-0
@@ -45,7 +46,7 @@
             .col-md-12.mb-4.mb-md-0
             p Para mayor seguridad, una vez fríos los frascos, se pueden llevar al horno precalentado a 120°C durante 15 minutos. Este paso es especialmente recomendado para conservas de baja acidez, como vegetales, ya que son más propensas al desarrollo de bacterias como el <em>Clostridium botulinum</em>.
 
-      .col-lg-4.col-md-8.mt-3.align-content-center
+      .col-lg-5.col-md-8.mt-3.align-content-center
         figure
           img(src='@/assets/curso/temas/tema2/img2.png', alt='Imagen decorativa')
 
@@ -53,7 +54,7 @@
       h5 Nota
       p.mb-0 Es importante manipular los frascos y tapas esterilizados con cuidado, evitando tocar las superficies internas. Se recomienda usar pinzas esterilizadas para su manipulación. Mantener los frascos y tapas en un lugar limpio y seco hasta su uso.
 
-
+    Separador
     #t_2_2.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 2.2 Llenado y aplicación de vacío
 
@@ -77,7 +78,7 @@
           .row(numero="4" titulo="Cierre de los frascos")
             .col-md-12.mb-4.mb-md-0
               p Colocar las tapas esterilizadas sobre los frascos, asegurándose de que queden bien centradas. Enroscar las tapas firmemente, pero sin apretar demasiado, para evitar que el aire entre al frasco.
-
+    Separador
     #t_2_3.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 2.3 Tratamiento térmico: pasteurización y esterilización
 
@@ -107,7 +108,7 @@
           figure
             img.my-3(src='@/assets/curso/temas/tema2/img4.png', alt='Imagen decorativa')
             
-
+    Separador
     #t_2_4.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 2.4 Enfriamiento y almacenamiento
 

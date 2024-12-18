@@ -14,7 +14,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Para la práctica de la elaboración de conservas de frutas y verduras, se detallarán a continuación los procesos para la preparación de mermeladas, frutas en almíbar, encurtidos y conservas de vegetales. A través de este desarrollo, el aprendiz encontrará las herramientas para aplicar buenas prácticas de higiene y seguridad alimentaria durante todo el proceso de elaboración de las conservas, esenciales para la obtención de productos de alta calidad, aptos para su almacenamiento y consumo seguro.
 
-
+    Separador
     #t_3_1.titulo-segundo.color-acento-contenido.my-3
       h3(data-aos='flip-left') 3.1 Elaboración de conservas de fruta
 
@@ -32,7 +32,7 @@
         img.my-3(src='@/assets/curso/temas/tema3/img2.png', alt='Imagen decorativa')
       .col-lg-8.align-content-center
         ol.ms-2(style="list-style: lower-alpha; color: #703A22")
-          li 
+          li
             span.text-dark La fruta a procesar debe tener sus colores característicos, deben ser vivos interna y externamente.
           li.hr-punteado.my-3
             span.text-dark Las frutas deben presentar buenas condiciones físicas, es decir, que no presenten golpes, magulladuras o raspones y no tengan rastros de ataques de insectos ni de hongos como el moho.
@@ -124,10 +124,10 @@
     p.my-3 Después de clasificar las frutas que tienen las condiciones óptimas, se procede a adecuarlas, esto implica lavar la fruta para extraerle suciedad y pelarlas si el producto así lo requiere para el acondicionamiento. Tenga en cuenta que las principales formas de presentación de la fruta son:
 
     .row.justify-content-center(data-aos="fade-up")
-      .col-lg-4.col-md-8.mt-3.align-content-center
+      .col-lg-5.col-md-8.mt-3.align-content-center
         figure
           img(src='@/assets/curso/temas/tema3/img14.png', alt='Imagen decorativa')
-      .col-lg-6
+      .col-lg-7
         LineaTiempoD.color-secundario.mt-3
           .row(numero="1" titulo="Enteras")
             .col-md-12.mb-4.mb-md-0
@@ -159,13 +159,13 @@
     .row.justify-content-center.my-3
       .col-lg-8.align-content-center
         p.my-3 Esta operación se realiza después del escaldado y cuando el almíbar está listo para el llenado se debe tener en cuenta lo siguiente:
-        ol.ms-2(style="list-style: lower-alpha; color: #703A22")
+        ol.ms-2.text-stron(style="list-style: lower-alpha; color: #703A22; font-weight: 600")
           li 
-            span.text-dark Introduzca las frutas en los frascos sólo hasta un 1cm por debajo del cuello del recipiente.
+            span.text-dark(style="font-weight: normal") Introduzca las frutas en los frascos sólo hasta un 1cm por debajo del cuello del recipiente.
           li.hr-punteado.my-3
-            span.text-dark Agregue el almíbar hasta el cuello del frasco, recuerde que este debe estar hirviendo y cubrir bien todas las frutas sin dejar burbujas de aire.
+            span.text-dark(style="font-weight: normal") Agregue el almíbar hasta el cuello del frasco, recuerde que este debe estar hirviendo y cubrir bien todas las frutas sin dejar burbujas de aire.
           li.hr-punteado.my-3
-            span.text-dark Tape el frasco sin apretar la tapa y continúe con el proceso térmico (vacío y pasteurización) esto se debe realizar siguiendo las recomendaciones vistas en la actividad de aprendizaje 3, donde se explica todo lo relacionado con el vacío de los frascos y la forma de realizar la pasteurización de los recipientes para conservas. Recuerde que las frutas en almíbar pueden ser atacadas por hongos que aparecen en la superficie de la conserva.
+            span.text-dark(style="font-weight: normal") Tape el frasco sin apretar la tapa y continúe con el proceso térmico (vacío y pasteurización) esto se debe realizar siguiendo las recomendaciones vistas en la actividad de aprendizaje 3, donde se explica todo lo relacionado con el vacío de los frascos y la forma de realizar la pasteurización de los recipientes para conservas. Recuerde que las frutas en almíbar pueden ser atacadas por hongos que aparecen en la superficie de la conserva.
       .col-lg-4.col-md-4.align-content-center
         img(src='@/assets/curso/temas/tema3/img15.png', alt='Imagen decorativa')
 
@@ -221,7 +221,7 @@
     img.my-3(src="@/assets/curso/temas/tema3/img19.svg", alt="alt")
     figcaption.mb-4 Fuente: SENA (2024).
 
-    .row.my-3
+    .row.my-4.fnd-4
       .col-lg-8.m-auto
         .row.align-items-center.grad1.p-4.justify-content-center
           .col-auto
@@ -283,7 +283,7 @@
         p.text-center <b>Fuente:</b> SENA (2024).
 
 
-
+    Separador
     #t_3_2.titulo-segundo.color-acento-contenido.my-3
       h3(data-aos='flip-left') 3.2 Conservas de vegetales
 

@@ -16,6 +16,7 @@
       .col-lg-5.col-md-6.align-content-center
         img.my-3(src='@/assets/curso/temas/tema1/img1.png', alt='Imagen decorativa')
 
+    Separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h3(data-aos='flip-left') 1.1 Generalidades de la conservación
     
@@ -69,9 +70,9 @@
         img.my-3(src='@/assets/curso/temas/tema1/img5.png', alt='Imagen decorativa')
 
     .row.justify-content-center.my-3
-      .col-lg-3.col-md-6.align-content-center.order.lg-1.order-md-2
+      .col-lg-3.col-md-6.align-content-center.order-lg-1.order-md-2
         img.my-3(src='@/assets/curso/temas/tema1/img6.png', alt='Imagen decorativa')
-      .col-lg-9.order.lg-2.order-md-1
+      .col-lg-9.order-lg-2.order-md-1
         p.my-3 En la actualidad, la ciencia y la tecnología han permitido ampliar el abanico de métodos de conservación, incluyendo la refrigeración, la congelación, la deshidratación y la irradiación, entre otros. Estos avances han transformado la industria alimentaria, haciendo posible que los consumidores accedan a una mayor variedad de productos frescos y procesados durante todo el año. Sin embargo, la aplicación inadecuada de estas técnicas puede comprometer la seguridad alimentaria, permitiendo la proliferación de microorganismos peligrosos como el <em>Clostridium botulinum</em>, causante del botulismo (<em>Centers for Disease Control and Prevention</em>. 2022). Por ello, es crucial seguir prácticas de higiene rigurosas y controlar de forma precisa las condiciones de temperatura, tiempo y proceso durante la elaboración de conservas.
         .cajon.color-secundario.p-4.my-3(data-aos="fade-up")(style="background: #E3EADB")
           p.mb-0 El objetivo principal de la conservación de alimentos no se limita únicamente a prolongar su vida útil, sino también a preservar al máximo su calidad nutricional y organoléptica. Se busca que los alimentos conserven sus características sensoriales, como sabor, aroma, textura y color, así como sus vitaminas y minerales, brindando al consumidor una experiencia agradable y nutritiva. Para lograr este objetivo, es fundamental considerar diversos factores durante la producción de conservas, desde la selección de materias primas de alta calidad hasta el control de las condiciones de elaboración, los costos de producción, el mercado objetivo y la vida útil del producto final.
@@ -167,22 +168,23 @@
 
     .row.justify-content-center
       p.text-center.text-light.my-3(style="background: #33490B; padding: 1em; border-radius: 10px; width: fit-content") <b>Los factores que determinan el tiempo de escaldado son los siguientes</b>
-    .row.justify-content-center.align-items-center.mb-3.fnd-4(data-aos="zoom-in")
+    
+    .row.justify-content-center.align-items-center.mb-3.fnd-4.mx-0(data-aos="zoom-in")
       .col-lg-12.align-content-center
         .row.justify-content-center
-          .col-xl-3.col-lg-3.align-content-center
+          .col-xl-3.col-lg-3.align-content-center.my-3
             .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
               img.my-3(src='@/assets/curso/temas/tema1/img15.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
               h4.text-center Variedad de la fruta
-          .col-xl-3.col-lg-3
-            .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
+          .col-xl-3.col-lg-3.align-content-center.my-3
+            .tarjeta.tarjeta--slyder.p-4.mb-0.h-100(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
               img.my-3(src='@/assets/curso/temas/tema1/img16.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
               h4.text-center Tamaño
-          .col-xl-3.col-lg-3
+          .col-xl-3.col-lg-3.align-content-center.my-3
             .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
               img.my-3(src='@/assets/curso/temas/tema1/img17.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
               h4.text-center Temperatura del escaldado
-          .col-xl-3.col-lg-3
+          .col-xl-3.col-lg-3.align-content-center.my-3
             .tarjeta.tarjeta--slyder.p-4.mb-0(style="background: #FAFAFA; align-content: start; border-radius: 0px; box-shadow: 4px 4px 6px -2px #DDDDDC; border-radius: 10px")
               img.my-3(src='@/assets/curso/temas/tema1/img18.svg', alt='Imagen decorativa')(style="width: 100px; justify-self: center")
               h4.text-center Sistemas de calentamiento
@@ -195,13 +197,13 @@
         ol.lista-ol--cuadro.lista-ol--separador
           li 
             .lista-ol--cuadro__vineta(style="background: #73964A; color: black; border-radius: 5px")
-              span 1
+              span(style="color: white") 1
             span Se somete la fruta o verdura a una atmósfera de vapor de agua saturada, esto se puede hacer utilizando ollas a presión o autoclaves. La desventaja de este método es que no siempre se acierta con la temperatura y algunas verduras no necesitan de altas temperaturas.
         .m-0.hr-punteado 
         ol.lista-ol--cuadro.lista-ol--separador
           li 
             .lista-ol--cuadro__vineta(style="background: #73964A; color: black; border-radius: 5px")
-              span 2
+              span(style="color: white") 2
             span Esta forma consiste en introducir el alimento en agua caliente, esto se puede hacer poniendo a hervir agua en un recipiente y cuando esta esté hirviendo a una temperatura de 100 ºC se introduce la verdura por un tiempo determinado. La desventaja de esta técnica es que altera el valor nutritivo y las características organolépticas del alimento, por esto es importante combinar temperatura y tiempo del escaldado para reducir pérdidas en el sabor y en sus compuestos nutricionales. 
 
     .row.justify-content-center.my-3
@@ -218,10 +220,10 @@
             tbody
               tr
                 th(style="background: #EDF1E9") Espárragos
-                td(style="background: #EDF1E9; color: #5C783B") <b>Pequeños:</b> 2 minutos / <em>Grandes:</em> 4 minutos
+                td(style="background: #EDF1E9; color: #5C783B") <b>Pequeños:</b> 2 minutos / <b>Grandes:</b> 4 minutos
               tr
                 th(style="background: #E3EADB") Remolachas
-                td(style="background: #E3EADB; color: #5C783B") <b>Pequeños:</b> 25 - 30 minutos / <em>Grandes:</em> 45 - 50 minutos
+                td(style="background: #E3EADB; color: #5C783B") <b>Pequeños:</b> 25 - 30 minutos / <b>Grandes:</b> 45 - 50 minutos
               tr
                 th(style="background: #EDF1E9") Brócoli
                 td(style="background: #EDF1E9; color: #5C783B") 3 minutos
